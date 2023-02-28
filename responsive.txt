@@ -1,0 +1,11 @@
+responsive 
+
+
+media queeries ?
+nó là các chuổi truy vấn nó giúp các bạn khoanh vùng đâu là nơi khi css dành cho mobile 
+đâu là nơi css cho pc , đâu là nơi css cho tablet.
+Đâu là kích thước để phân biệt pc,tablet và mobile.
+
+PC : >= 1024PX
+TABLET : >=740PX & < 1024PX
+MOBILE : < 740PX

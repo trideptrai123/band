@@ -1,0 +1,85 @@
+/* responsive  */
+
+@media (max-width:1023px) {
+    .btn{
+        padding: 15px 16px;
+    }
+    .contract-form .form-control {
+        padding: 15px;
+    }
+    .socials-list {
+        font-size: 48px;
+    }
+    .socials-list a {
+        margin: 0 8px;
+    }
+}
+
+
+
+/* tablet */
+@media (min-width:740px) and (max-width:1023px) {
+    #content .content-section{
+        max-width: 100%;
+        padding-right: 16px;
+        padding-left: 16px;
+
+    }
+}
+
+/* mobile */
+@media (max-width:739px) {
+    #main {
+        width: 196%;
+    }
+    .s-full-width {
+        width: 100% !important;
+    }
+    .s-column-full {
+        width: 100% !important;
+    }
+    .s-mt-16 {
+        margin-top: 8px !important;
+    }
+    #navigation {
+        display: block; 
+    }
+    #navigation  li a {
+        padding: 1px 24px;
+
+    }
+    #navigation > li {
+        display: block;
+    }
+    #navigation > li:first-child{
+        display: inline-block;
+    }
+    #navigation .subnav  {
+        position:initial;
+        background-color: #333;
+
+    }
+    #navigation .subnav  a {
+        color: #fff;
+        padding: 5px 41px;
+    }
+    #header {
+        overflow: hidden;
+    }
+    #header .mobile-menu-btn {
+        display: block;
+    }
+    #header .search-btn {
+        display: none;
+    }
+    #content .member-item {
+        width: 100%;
+        margin-top: 30px;
+    }
+    #content .member-avata  {
+        width: 60%;
+    }  
+    .contract-form {
+        margin-top: 16px;
+    }
+}

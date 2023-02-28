@@ -1,0 +1,31 @@
+Phân biệt và gọi tên các thành phần
+Website mẫu: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+1.Phân tích 
+  1.Header
+  2.Slider
+  3.Content
+      1.About(giới thiệu)
+      2.Tour
+      3.Contact
+      4.Image        
+  4.Footer
+2.Dựng base(xây móng)
+3.Xây dựng từng phần theo phân tích
+4.hoàn thiện
+
+
+
+
+
+ 
++Những thàh phần thường gặp trên giao diện wedsite
+1.Header(đầu trang)
+2.Navigation(điều hướng) 
+3.breadcrumb(là thanh dùng để thể hiện rằng bạn đang ở đâu )
+vd: Khóa học > html,css thì ở đây thanh này đùng để thể hiện bạn đang nằm ở phần html,css và nó là phần con của khóa học
+4.Sidebar(Một cái thanh thường đặt ở 1 phía của màng hình)
+5.Slider(Là một cái màng trình diễn những nội dung động có thể là hìng ảnh video hoặc là chử..)
+6.Content(phần nội dung chính trang web)
+7.Banner(ảnh quảng cáo được đặt ở bất kỳ đâu trên website)
+8.Footer( phần ở cuối trang web )
